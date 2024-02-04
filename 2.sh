@@ -32,15 +32,16 @@ yay -S \
 xdg-user-dirs-update
 
 # Add Device(s)
-cp -r dunst ~/.config/
-cp -r sww ~/.config/
-cp -r grim ~/.config/
-cp -r swaybg ~/.config/
-cp -r rofi ~/.config/
-cp -r wofi ~/.config/
-cp -r neovim ~/.config/
-cp -r waybar ~/.config/
-cp -r kitty ~/.config/
-cp -r firefox ~/.config/
-cp -r alacritty ~/.config/
-cp -r geany ~/.config/
+# Use -v flag for verbose output
+cp -rv dunst ~/.config/
+cp -rv sww ~/.config/
+cp -rv grim ~/.config/
+cp -rv swaybg ~/.config/
+cp -rv rofi ~/.config/
+cp -rv wofi ~/.config/
+cp -rv neovim ~/.config/
+cp -rv waybar ~/.config/
+cp -rv kitty ~/.config/
+cp -rv firefox ~/.config/
+cp -rv alacritty ~/.config/
+cp -rv geany ~/.config/
