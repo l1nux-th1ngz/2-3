@@ -25,7 +25,7 @@ yay -S \
     pamixer pavucontrol brightnessctl bluez bluez-utils \
     blueman network-manager-applet gvfs file-roller \
     btop pacman-contrib starship ttf-jetbrains-mono-nerd \
-    noto-fonts-emoji xdg-user-libs xdg-user-libs-gtk
-
+    noto-fonts-emoji xdg-user-libs xdg-user-libs-gtk hyprland-git
+    
 # Update user library
 xdg-user-libs-update
